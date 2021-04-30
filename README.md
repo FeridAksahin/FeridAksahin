@@ -32,20 +32,13 @@ I'm Ferid Akşahin. I am a software engineering student. I have a good command o
 ### :closed_lock_with_key: Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### :open_file_folder: Office
-<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
 
 ### :black_nib: Forums
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 My Stack Overflow account:
 
 [![Ferid Akşahin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15803509&theme=dark)](https://stackoverflow.com/users/15803509/ferid-akşahin)
-
-### :books: Education Platforms 
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
 
 ### :telephone_receiver: Contact
 [![Linkedin Badge](https://img.shields.io/badge/-FeridAksahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/)](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/) 
