@@ -5,7 +5,7 @@ I'm Ferid Akşahin. I am a software engineering student. I have a good command o
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83434568/116725690-f141e100-a9ea-11eb-836b-431fe5c2ad45.gif">
 
-### SUMMARY👋
+### Summary :writing_hand:
 - 💻 I’m currently working on improve my software skills.
 - 💻 I am working for java and c#.
 - 💻 I’m looking to collaborate on research papers related to anything in software, computer.
@@ -13,13 +13,51 @@ I'm Ferid Akşahin. I am a software engineering student. I have a good command o
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/) , [Email](mailto:ferid.aksahin98@gmail.com)
 - 💻 Pronouns: Software Engineer student.
 
-### CONTACT
- [![Linkedin Badge](https://img.shields.io/badge/-FeridAksahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/)](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/)
+### 💻 Programming Languages
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+### :hammer_and_wrench: IDEs/Editors
+<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+
+### :door: Operating System
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+### :closed_lock_with_key: Databases
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### :open_file_folder: Office
+<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+### :black_nib: Forums
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+My Stack Overflow account:
+
+[![Ferid Akşahin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15803509&theme=dark)](https://stackoverflow.com/users/15803509/ferid-akşahin)
+
+### :books: Education Platforms 
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
+
+### :telephone_receiver: Contact
+[![Linkedin Badge](https://img.shields.io/badge/-FeridAksahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/)](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/) 
+
 [![Gmail Badge](https://img.shields.io/badge/-ferid.aksahin98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferid.aksahin98@gmail.com)](mailto:ferid.aksahin98@gmail.com)
 
-### STATS
-
+### :scroll: Stats
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FeridAksahin.FeridAksahin)
+[![Repos Badge](https://badges.pufler.dev/repos/FeridAksahin)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/FeridAksahin)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/FeridAksahin)](https://badges.pufler.dev)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeridAksahin&langs_count=8">
 <img src="https://github-readme-stats.vercel.app/api?username=FeridAksahin&theme=algolia&show_icons=true">
