@@ -1,7 +1,7 @@
 <p  align="center"><img height="150" src = "https://user-images.githubusercontent.com/83434568/116713153-3101cc00-a9dd-11eb-9af4-97fbb65ef60d.png">
   <img src="https://user-images.githubusercontent.com/83434568/116715480-6e675900-a9df-11eb-82f8-d53a9739248c.gif" width="150"></p>
 
-I'm Ferid Akşahin. I am a software engineering student. I have a good command of basic topics and oop topics in Java and C # languages. I know basic level xCode IDE and swift language. I know basic level MySQL database management software. As a database language, I have a basic level of SQL. I know HTML. I know how to use WordPress. I am improving myself in my field.
+I am Ferid Akşahin, I am a software engineering student. I have a good command of Java and C # languages, I have a basic knowledge of xCode IDE, Swift languages and MySQL database management software. I have basic knowledge of SQL as a database language. I also know HTML and can use WordPress. I am improving myself every day in my field.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83434568/116725690-f141e100-a9ea-11eb-836b-431fe5c2ad45.gif">
 
