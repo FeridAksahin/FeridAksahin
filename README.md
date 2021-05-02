@@ -32,8 +32,6 @@ I am Ferid Akşahin, I am a software engineering student. I have a good command 
 
 ### :scroll: Stats
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FeridAksahin.FeridAksahin)
-[![Repos Badge](https://badges.pufler.dev/repos/FeridAksahin)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/FeridAksahin)](https://badges.pufler.dev)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeridAksahin&langs_count=8">
