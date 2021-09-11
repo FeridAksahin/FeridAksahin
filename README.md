@@ -1,4 +1,4 @@
-<p  align="center"><img height="150" src = "https://user-images.githubusercontent.com/83434568/116713153-3101cc00-a9dd-11eb-9af4-97fbb65ef60d.png">
+<p  align="center"><img height="50" src = "https://user-images.githubusercontent.com/83434568/116713153-3101cc00-a9dd-11eb-9af4-97fbb65ef60d.png">
 
 
 I'm Ferid Akşahin, a software engineering student. I have good command of Java and C# languages, I have basic knowledge of xCode IDE, Swift languages and MySQL database management software. I have basic knowledge of SQL as a database language. I also know HTML and can use WordPress. I improve myself in my field every day. I am currently developing myself in the field of mobile application developer. My hobbies are sudoku, kendoku, fitness, reading books and also developing games in gamemaker studio 2 mobile program.
