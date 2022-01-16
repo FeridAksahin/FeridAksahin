@@ -8,6 +8,7 @@ I'm a 4th year software engineering student. I like to improve myself in my fiel
 - 💻 I have good knowledge of Java and C# languages.
 - 💻 I have a good knowledge of Selenium. With Selenium, I can write bots that test the buttons, text boxes, links, etc. of the sites with the python language.
 - 💻 I have good knowledge of HTML and CSS.
+- 💻 I have intermediate knowledge Flutter. I have intermediate knowledge of dart language. 
 - 💻 I have basic knowledge of xCode IDE, Swift languages and MySQL database management software.
 - 💻 I have basic knowledge of SQL as a database language.   
 
