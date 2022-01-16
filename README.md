@@ -10,20 +10,10 @@ I'm Ferid Akşahin, a 4th year software engineering student.I like to improve my
 - 💻 I have a good knowledge of Selenium. With Selenium, I can write bots that test the buttons, text boxes, links, etc. of the sites with the python language.
 - 💻 I have good knowledge of HTML and CSS.
 - 💻 I have basic knowledge of xCode IDE, Swift languages and MySQL database management software.
-- 💻 I have basic knowledge of SQL as a database language.
-- 💬 Ask to me about Software Development and projects I've worked on.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/) , [Email](mailto:ferid.aksahin98@gmail.com)    
+- 💻 I have basic knowledge of SQL as a database language.   
 
-  
-### 💻 Programming Languages
+### 💻 Coding
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-
-
-
-### :hammer_and_wrench: IDEs/Editors
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>   <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-
 
 ### :closed_lock_with_key: Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
