@@ -1,7 +1,7 @@
 <p  align="center"><img height="150" src = "https://user-images.githubusercontent.com/83434568/116713153-3101cc00-a9dd-11eb-9af4-97fbb65ef60d.png">
   <img src="https://user-images.githubusercontent.com/83434568/116715480-6e675900-a9df-11eb-82f8-d53a9739248c.gif" width="150"></p>
 
-I'm Ferid Akşahin, a software engineering student. I have good command of Java and C# languages, I have basic knowledge of xCode IDE, Swift languages and MySQL database management software. I have basic knowledge of SQL as a database language. I also know HTML and can use WordPress. I improve myself in my field every day. I am currently developing myself in the field of mobile application developer. My hobbies are sudoku, kendoku, fitness, reading books and also developing games in gamemaker studio 2 mobile program.
+I'm Ferid Akşahin, a senior software engineering student. I have good command of Java, C# languages, I have basic knowledge of xCode IDE, Swift languages and MySQL database management software. I have a good knowledge of Selenium. With Selenium, I can write bots that test the buttons, textboxes, links, etc. of the sites with the python language. I have basic knowledge of SQL as a database language. I also know HTML and CSS. I am improving myself in my field. I am currently developing myself in mobile application developer and web fields.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83434568/116725690-f141e100-a9ea-11eb-836b-431fe5c2ad45.gif">
 
