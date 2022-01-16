@@ -1,7 +1,7 @@
 <p  align="center"><img height="150" src = "https://user-images.githubusercontent.com/83434568/116713153-3101cc00-a9dd-11eb-9af4-97fbb65ef60d.png">
   <img src="https://user-images.githubusercontent.com/83434568/116715480-6e675900-a9df-11eb-82f8-d53a9739248c.gif" width="150"></p>
 
-I'm a 4th year software engineering student. I like to improve myself in my field. I am currently developing myself in the fields of mobile application developer and web.
+I'm a 4th year software engineering student. I like to improve myself in my field. I am currently developing myself in the fields of android developer and web developer.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83434568/116725690-f141e100-a9ea-11eb-836b-431fe5c2ad45.gif">
 
