@@ -1,4 +1,5 @@
 
+  <img src="https://user-images.githubusercontent.com/83434568/116715480-6e675900-a9df-11eb-82f8-d53a9739248c.gif" width="150"></p>
 
 I'm Ferid Akşahin, a 4th year software engineering student.I like to improve myself in my field. I am currently developing myself in the fields of mobile application developer and web.
 
