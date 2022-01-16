@@ -8,9 +8,10 @@ I'm a 4th year software engineering student. I like to improve myself in my fiel
 - 💻 I have good knowledge of Java and C# languages.
 - 💻 I have a good knowledge of Selenium. With Selenium, I can write bots that test the buttons, text boxes, links, etc. of the sites with the python language.
 - 💻 I have good knowledge of HTML and CSS.
-- 💻 I have intermediate knowledge Flutter. I have intermediate knowledge of dart language. 
+- 💻 I have intermediate knowledge Flutter, Android Studio IDE. I have intermediate knowledge of dart language. 
 - 💻 I have basic knowledge of xCode IDE, Swift languages and MySQL database management software.
 - 💻 I have basic knowledge of SQL as a database language.   
+- 💻 I have basic knowledge of Arduino.   
 
 ### 💻 Coding
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
