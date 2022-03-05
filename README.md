@@ -1,7 +1,6 @@
 
 <h1>Hello 👋</h1>
-I'm a 4th year software engineering student. I like to improve myself in my field. I am currently developing myself in the fields of android developer and web developer.
-
+I'm a 4th year software engineering student. I like to improve myself in my field. I like to improve myself in my field. I am currently developing myself in the web development. 
 
 
 ### Summary :writing_hand:
