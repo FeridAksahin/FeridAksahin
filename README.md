@@ -11,7 +11,7 @@ I'm a 4th year software engineering student. I like to improve myself in my fiel
 - 💻 I have basic knowledge of xCode IDE, Swift languages and MySQL database management software.
 - 💻 I have basic knowledge of SQL as a database language.   
 - 💻 I have basic knowledge of Arduino.   
-- 💻 Javascript & Bootstrap & React : I am currently learning javascript, bootstrap and react.
+- 💻 I am currently learning javascript, bootstrap and react.
 
 <b>Portfolio: </b>https://feridaksahin.github.io/portfolio/
 ### :telephone_receiver: Contact
