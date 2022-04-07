@@ -5,6 +5,8 @@ I'm a 4th year software engineering student. I like to improve myself in my fiel
 
 ### Summary :writing_hand:
 - 💻 I have good knowledge of Java and C# languages.
+- 💻 I know how to test API with Postman program. I know the Postman.
+- 💻 I can establish API connections with cURL functions with PHP language. I know crud operations with PHP language.
 - 💻 I have a good knowledge of Selenium. With Selenium, I can write bots that test the buttons, text boxes, links, etc. of the sites with the python language.
 - 💻 I have good knowledge of HTML and CSS.
 - 💻 I have intermediate knowledge Flutter, Android Studio IDE. I have intermediate knowledge of dart language. 
