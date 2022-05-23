@@ -19,3 +19,7 @@ I'm a 4th year software engineering student. I like to improve myself in my fiel
 ### :telephone_receiver: Contact
 [![Linkedin Badge](https://img.shields.io/badge/-FeridAksahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/)](https://www.linkedin.com/in/ferid-ak%C5%9Fahin-8708331b8/) [![Gmail Badge](https://img.shields.io/badge/-ferid.aksahin98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferid.aksahin98@gmail.com)](mailto:ferid.aksahin98@gmail.com)
 
+
+### :scroll: Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeridAksahin&langs_count=8">
